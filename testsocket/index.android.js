@@ -113,3 +113,4 @@ const styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent('testsocket', () => testsocket);
+hahahah
